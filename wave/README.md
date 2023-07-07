@@ -1,1 +1,1 @@
-<video src="vid.mp4" controls title="Title"></video>
+![Alt text](gif.gif)
